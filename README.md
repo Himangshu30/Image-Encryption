@@ -4,7 +4,7 @@ Image Encryption/Decryption application using Rubik's Cube Algorithm and RSA
 
 Rubik's Cube Algorithm for Image Encryption: https://www.hindawi.com/journals/jece/2012/173931/
 
-![Screenshot](screenshot.png)
+
 
 Run the application using:
 ```
